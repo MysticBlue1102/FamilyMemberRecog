@@ -1,0 +1,12 @@
+body {
+    background-color: lightgrey
+}
+
+.heading {
+    font-size: 40;
+    background-color:cadetblue;
+}
+
+.name_of_objects {
+    color: darkred;
+}
